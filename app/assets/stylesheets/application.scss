@@ -6759,6 +6759,9 @@ button.close {
 }
 /*# sourceMappingURL=bootstrap.css.map */
 //////////////////////////////////////////////////
+
+Begin custom styles
+
 /////////////////////////////////////////////////
 html, body {
 	font-family: 'Raleway', sans-serif;
@@ -6788,6 +6791,7 @@ a {
 		right: 3em;
 		top: 3em;
 	}
+
 	ul {
 		list-style: none;
 		text-align: right;
@@ -6822,6 +6826,10 @@ a {
 		font-size: .8em;
 		color: #9eafba;
 	}
+  
+  img {
+    width: 40px;
+  }
 }
 
 .button {
