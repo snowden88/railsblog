@@ -78,5 +78,5 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
 
   # Mailer for Devise
-  config.action_mailer.default_url_options = { host: 'https://frozen-mesa-9260.herokuapp.com'}
+  config.action_mailer.default_url_options = { host: 'frozen-mesa-9260.herokuapp.com'}
 end
